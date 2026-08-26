@@ -1,0 +1,8 @@
+langgraph>=0.2,<2
+langchain>=0.3
+langchain-core>=0.3
+langchain-google-genai>=2.0
+pydantic>=2.0
+python-dotenv>=1.0
+pytest>=8.0
+grandalf>=0.8  # optional: enables graph.get_graph().draw_ascii() for demos
