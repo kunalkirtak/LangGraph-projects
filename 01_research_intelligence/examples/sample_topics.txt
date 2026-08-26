@@ -1,0 +1,10 @@
+LLM inference optimization
+Retrieval-augmented generation (RAG) architectures
+Multi-agent orchestration frameworks
+Vector database indexing strategies
+Fine-tuning vs. prompt engineering trade-offs
+On-device / edge LLM deployment
+LLM evaluation and benchmarking methodologies
+AI agent tool-use and function calling
+Model quantization techniques
+LLM observability and production monitoring
