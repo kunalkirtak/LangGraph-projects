@@ -1,0 +1,10 @@
+{
+  "lead_name": "Sarah Chen",
+  "company": "Acme Technologies",
+  "role": "CTO",
+  "industry": "SaaS",
+  "company_size": 500,
+  "need": "Our engineering team spends significant manual effort on internal workflows that could be automated with AI agents, and it is slowing down product delivery.",
+  "budget": "$75000",
+  "urgency": "High - targeting a Q3 rollout"
+}
