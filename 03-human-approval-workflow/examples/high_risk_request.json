@@ -1,0 +1,7 @@
+{
+  "requester": "Alex",
+  "department": "Engineering",
+  "action": "Approve a major production infrastructure purchase",
+  "amount": 50000,
+  "reason": "Required for production capacity expansion"
+}
