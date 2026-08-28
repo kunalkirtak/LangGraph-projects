@@ -1,0 +1,7 @@
+{
+  "requester": "Priya",
+  "department": "IT Operations",
+  "action": "Grant standing production database admin access",
+  "amount": 0,
+  "reason": "Wants elevated access on hand for future incident response"
+}

@@ -1,0 +1,7 @@
+{
+  "requester": "Alex",
+  "department": "Engineering",
+  "action": "Approve a small development tool purchase",
+  "amount": 100,
+  "reason": "Required for local development productivity"
+}
